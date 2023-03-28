@@ -1,0 +1,45 @@
+/* *{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: rgba(201, 5, 5, 0.9);
+    font-size: 15px;
+    line-height: 2px;
+    padding: 5px;
+}
+h3{
+color: #202450f7;
+}
+
+h2{
+    text-align: center;
+    color: #011223f0;
+}
+
+table{
+    margin: 0 auto;
+    border: 2px solid  rgba(201, 5, 5, 0.9);
+    color: #092a4cf0;
+} */
+*{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: #3b1b93;
+}
+table, th, td{
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid rgb(104, 10, 91);
+}
+th{
+    color: #9858d0;
+}
+.max-freq {
+    color: rgba(21, 113, 170, 0.808);
+}
+.min-freq {
+    color: rgb(237, 45, 176);
+}
